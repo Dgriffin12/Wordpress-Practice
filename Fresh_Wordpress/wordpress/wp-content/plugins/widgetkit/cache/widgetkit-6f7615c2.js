@@ -1,0 +1,1 @@
+var widgetkitajax="http://localhost/WP/wordpress/bootstrapmacromagic/wp-admin/admin-ajax.php?action=widgetkit&ajax=1";
